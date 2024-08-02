@@ -15,5 +15,5 @@
 - [Aryan Jha](https://www.linkedin.com/in/aryan-jha-50b12329b/)
 
 #### Art Team
-- [Taufic Aksa](https://cottonball.live)
+- [ Harshith](https://cottonball.live)
 - Jayanth
