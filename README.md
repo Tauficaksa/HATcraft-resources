@@ -12,8 +12,10 @@
 
 #### Programming Team 
 - [Taufic Aksa](https://tauficaksa.me/)
-- [Aryan Jha](https://www.linkedin.com/in/aryan-jha-50b12329b/)
 
-#### Art Team
-- [ Harshith](https://cottonball.live)
+#### Design Team
+- [Harshith](https://cottnball.itch.io/)
 - Jayanth
+
+#### Managment Team
+- [Aryan Jha](https://www.linkedin.com/in/aryan-jha-50b12329b/)
